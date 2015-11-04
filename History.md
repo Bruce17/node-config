@@ -1,3 +1,19 @@
+NEXT / YYYY-MM-DD
+==================
+
+ * Update warning about missing configuration files to mention how to disable the warning #245 @markstos 
+
+1.16.0 / 2015-09-03
+===================
+
+  * Change == to === to tighten equality tests #242 @wgpsutherland
+  * Fix attachProtoDeep for setModuleDefaults #243 @benkroeger
+
+1.15.0 / 2015-07-30
+===================
+
+  * Added full hostname in addition to first segment @vicary
+
 1.14.0 / 2015-06-02
 ===================
 
